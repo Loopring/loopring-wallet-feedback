@@ -1,1 +1,1 @@
-# wallet_product
+# Loopring Wallet Feedback from Users
